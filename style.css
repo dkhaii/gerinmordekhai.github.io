@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #fbe6c2;
+}
+.nav-link:hover::after {
+  content: "";
+  display: block;
+  border-bottom: 3px solid #ff9100;
+  border-radius: 12px;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 3px;
+  margin-bottom: -6px;
+}
+h2 {
+  font-size: 40px;
+}
+#galery {
+  background-color: #fbe6c2;
+}
+section {
+  padding-top: 5rem;
+}
